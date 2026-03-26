@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "あつまれ！パーティーピーポー",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2026-03-26T03:40:26.348329Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あつまれ!パーティーピーポー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/01_あつまれ!パーティーピーポー_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あつまれ!パーティーピーポー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_あつまれ!パーティーピーポー_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "あつまれ!パーティーピーポー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_あつまれ!パーティーピーポー_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "あつまれ!パーティーピーポー",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_03_あつまれ!パーティーピーポー_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
